@@ -1,4 +1,4 @@
-# tp4-vue-cli
+# TP7-vue-cli
 
 ## Project setup
 ```
